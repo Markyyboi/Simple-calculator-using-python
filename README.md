@@ -1,2 +1,2 @@
-# Simple-calculator-using-python
+# Simple-ATM-python
 This is my first project
